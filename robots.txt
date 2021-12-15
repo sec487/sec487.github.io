@@ -1,2 +1,6 @@
 User-agent: *
 Disallow: /
+Disallow: /secretdirectory1/
+Disallow: thisfiledoesnotexist.html
+Disallow: /really-these-dirs-do-not-exist/
+Disallow: validate-all-this-data.jpg
